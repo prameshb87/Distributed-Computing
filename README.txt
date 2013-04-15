@@ -1,3 +1,7 @@
+This project implements the pagerank algorithm and runs it on either BareMetal nodes or VMs depending on user. For this,
+the user specifies the number of processes to which the task will be delegated. Simultaneously, Resource Monitor runs on 
+a client machine to display the resource usage statistics of the machines where the processes are running.
+
 README!!!
 
 1. Copy /Source Code/Producer Folder to the respective compute nodes.
